@@ -3,3 +3,16 @@ docs/_build/
 __pycache__/
 *.pyc
 
+npm-debug.log
+
+
+########################
+# misc / editors
+########################
+
+*~
+*#
+**/.DS_STORE/**
+**/.netbeans/**
+**/nbproject/**
+**/.idea/**
